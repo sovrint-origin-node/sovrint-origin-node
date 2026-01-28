@@ -1,0 +1,14 @@
+title: SOVRINT
+description: Canonical documents, provenance, security model, and legal position.
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+header_pages:
+  - README.md
+  - PROVENANCE.md
+  - LEGAL_POSITION.md
+  - SECURITY.md
+  - LICENSE.md
